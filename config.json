@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "channel_type": "wx",
   "proxy": "127.0.0.1:7890",
@@ -14,10 +14,10 @@
     "@模块七-延安-卷王-陈伟"
   ],
   "group_chat_keyword": [
-    "-小布"
   ],
   "group_name_white_list": [
     "七天舔狗速成",
+    "AI体验群",
     "路飞-Python学习4群"
   ],
   "group_chat_reply_prefix":"[机器人小布为您服务[愉快]]\n\n",
@@ -35,6 +35,6 @@
   "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
   "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   "use_linkai": false,
-  "linkai_api_key": "Link_rnslakvfMMn4NZ9LhlUhmYnZJvQLQLGjgYcC3jPjPW",
-  "linkai_app_code": ""
+  "linkai_api_key": "Link_zOH2RS3OZvSPBtBTJj0qTGfwG3epLy78O1RZeP5pX7",
+  "linkai_app_code": "1AXFjqwZ"
 }
